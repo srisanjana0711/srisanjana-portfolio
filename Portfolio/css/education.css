@@ -1,0 +1,12 @@
+#education{
+    background: #eef2ff;
+}
+
+#education .card h3{
+    margin-bottom: 15px;
+    color: #2563eb;
+}
+
+#education .card p{
+    margin-bottom: 10px;
+}
